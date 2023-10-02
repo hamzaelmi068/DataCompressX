@@ -1,4 +1,4 @@
-# Decompression_Compression_Algorithm--Winzip_Alternative
+# Decompression_Compression_Encode/decode
 
 _****Overview****_
 
